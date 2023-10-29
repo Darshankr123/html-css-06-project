@@ -1,0 +1,18 @@
+.container {
+  padding-bottom: 50px;
+
+  padding-top: 10px;
+}
+
+.container .icon {
+  color: red;
+  font-size: 40px;
+}
+.container #first {
+  color: blue;
+  text-transform: capitalize;
+}
+.container #second {
+  color: blue;
+  text-transform: capitalize;
+}
